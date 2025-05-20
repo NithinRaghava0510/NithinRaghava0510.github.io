@@ -42,7 +42,6 @@ A responsive task management tool using Angular 16+ and ASP.NET Core. Backend se
 ## 📄 Resume
 
 [Click here to view my resume](resume.pdf)  
-(Upload your `resume.pdf` file to the root of the repo for this link to work.)
 
 ---
 
