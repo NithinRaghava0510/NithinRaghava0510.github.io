@@ -34,7 +34,7 @@ A modular blogging platform enabling users to write, edit, and manage blog posts
 ### 🎒 [Lost/Found Portal](https://github.com/NithinRaghava0510/lost-found)
 A secure React-based platform to report and find lost items in an institute. Features include real-time updates, email alerts, and PostgreSQL-backed tracking built with Node.js and Express.
 
-### ✅ [Task Tracker](https://github.com/NithinRaghava0510/task-tracker)
+### ✅ [Task Tracker](https://github.com/NithinRaghava0510/TaskTrackr)
 A responsive task management tool using Angular 16+ and ASP.NET Core. Backend services leverage Entity Framework and PostgreSQL with Singleton and Repository design patterns.
 
 ---
