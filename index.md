@@ -11,7 +11,7 @@ I'm a passionate **Computer Science graduate** from The George Washington Univer
 ## 💼 About Me
 
 - 🎓 Master's in Computer Science (2025), The George Washington University 
-- 🚀 I'm driven by a deep curiosity for how systems work end-to-end and a passion for building tools that make life easier
+- 🚀 I'm driven by a curiosity for how systems work end-to-end and a passion for building tools that make life easier
 - 👨‍💻 2+ years of hands-on experience in building and deploying production-grade applications  
 - 🧠 Strong knowledge in algorithms, system design, and modern web development frameworks  
 
