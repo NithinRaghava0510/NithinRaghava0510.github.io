@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # 👋 Hi, I'm Nithin Raghava Aitha
 
