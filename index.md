@@ -38,7 +38,7 @@ A responsive task management tool using Angular 16+ and ASP.NET Core. Backend se
 
 ## 📄 Resume
 
-[Click here to view my resume](https://github.com/NithinRaghava0510/NithinRaghava0510.github.io/blob/bb6350e2b4c4071a90f503b256fe910d15e94870/Nithin%20Raghava%20Aitha.pdf)  
+[Click here to view my resume](Nithin Raghava Aitha.pdf)  
 
 ---
 
